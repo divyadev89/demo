@@ -1,0 +1,2 @@
+#Commit message must contain "bug-fix" word
+bug-fix
